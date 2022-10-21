@@ -1,6 +1,6 @@
 <h1> To complete</h1>
 
- ### Octopia - 3PL API Integration
+ ### UDEMY Machine Learning Project
 
 <h2>Description</h2>
 To complete
